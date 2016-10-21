@@ -20,6 +20,8 @@ symbol_layer.properties()
 # Duplicate layer using style
 renderer = layer.rendererV2()
 layer2.setRenderer(renderer)
+
+
 # 2) EXPORT
 
 # Switch on / off layers > different visibilities
